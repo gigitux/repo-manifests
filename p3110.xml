@@ -152,4 +152,5 @@
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="github" revision="ics"/>
   <project name="CyanogenMod/android_kernel_samsung_espresso10" path="kernel/samsung/espresso10" remote="github" revision="ics" />
   <project name="device_samsung_p3110" path="device/samsung/p3110" remote="feherneoh" revision="ffos" />
+  <project name="device_samsung_p3100" path="device/samsung/p3100" remote="feherneoh" revision="ffos" />
 </manifest>
