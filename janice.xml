@@ -153,7 +153,7 @@
   <!-- Samsung i9070 -->
   <project path="sourcefix" name="cmtogecko" remote="feherneoh" />
   <project path="device/samsung/janice" name="android_device_samsung_janice" remote="KINGbabasula" revision="firefox" />
-  <project path="device/samsung/u8500-common" name="android_device_samsung_u8500-common" remote="KINGbabasula" revision="firefox" />
-  <project path="kernel/samsung/u8500" name="android_kernel_samsung_u8500" remote="KINGbabasula" revision="firefox"/>
-  <project name="android_vendor_samsung_u8500-common" path="vendor/samsung/u8500-common" remote="KINGbabasula" revision="firefox"/>
+  <project path="device/samsung/u8500-common" name="J-Team/platform_device_samsung_u8500-common" remote="github" revision="kitkat" />
+  <project path="kernel/samsung/u8500" name="TeamCanjica/android_kernel_samsung_u8500" remote="github" revision="cm-11.0"/>
+  <project name="TeamCanjica/android_vendor_samsung_u8500-common" path="vendor/samsung/u8500-common" remote="github" revision="cm-11.0"/>
 </manifest>
