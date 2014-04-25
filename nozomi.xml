@@ -38,7 +38,7 @@
   <project path="gonk-misc" name="gonk-misc" remote="b2g" revision="master" />
   <project path="rilproxy" name="rilproxy" remote="b2g" revision="master" />
   <project path="external/moztt" name="moztt" remote="b2g" revision="master" />
-	<project path="librecovery" name="librecovery" remote="b2g" revision="master" />
+  <project path="librecovery" name="librecovery" remote="feherneoh" revision="master" />
 
   <!-- CyanogenMod -->
   <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.0.4_r2.1" />
@@ -155,5 +155,5 @@
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/somc/dash" remote="github" revision="ics" />
   <project name="CyanogenMod/sony-kernel-msm8660" path="kernel/sony/msm8660" remote="github" revision="android-msm-3.0" />
   <project name="device_sony_fuji-common" path="device/sony/fuji-common" remote="feherneoh" revision="ffos" />
-  <project name="device_sony_nozomi" path="device/sony/nozomi" remote="feherneoh" revision="ffos" />
+  <project name="device_sony_nozomi" path="device/sony/nozomi" remote="feherneoh" revision="recoverydev" />
 </manifest>
