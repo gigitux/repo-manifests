@@ -147,6 +147,8 @@
   <project path="system/netd" name="CyanogenMod/android_system_netd" />
   <project path="system/vold" name="CyanogenMod/android_system_vold" />
   
-  <!-- SEMC Satsuma -->
+  <!-- HTC Pyramid -->
   <project path="sourcefix" name="cmtogecko" remote="feherneoh" />
+	<project name="CyanogenMod/android_device_htc_pyramid" path="device/htc/pyramid" remote="github" revision="ics" />
+	<project name="CyanogenMod/android_device_htc_msm8660-common" path="device/htc/msm8660-common" remote="github" revision="ics" />
 </manifest>
