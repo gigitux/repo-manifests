@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <include name="base-jb.xml" />
+  <include name="cm-10.2.xml" />
 
   <project name="CyanogenMod/android_device_sony_huashan" path="device/sony/huashan" remote="github" revision="cm-10.2" />
   <project name="CyanogenMod/android_device_sony_common" path="device/sony/common" remote="github" revision="cm-10.2" />
