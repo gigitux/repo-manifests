@@ -153,7 +153,7 @@
   <project name="CyanogenMod/android_hardware_sony_DASH" path="hardware/somc/dash" remote="github" revision="ics" />
   <project name="device_sony_montblanc-common" path="device/sony/montblanc-common" remote="feherneoh" revision="ffos" />
   <project name="CyanogenMod/sony-kernel-u8500" path="kernel/sony/u8500" remote="github" revision="ics" />
-  <project name="device_sony_kumquat" path="device/sony/kumquat" remote="feherneoh" revision="ffoscm9_ste" />
+  <project name="device_sony_kumquat" path="device/sony/kumquat" remote="feherneoh" revision="ffos" />
 	<project name="vendor_st-ericsson" path="vendor/st-ericsson" remote="feherneoh" revision="ffoscm9" />
   
 </manifest>
